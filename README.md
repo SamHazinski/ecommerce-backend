@@ -9,6 +9,8 @@ n/a
 ## Usage
 via the api routes
 
+https://drive.google.com/file/d/1d7hh1Q1eUylBDy6zZHKNdvRO8mX_Pc_3/view?usp=sharing
+
 ## Credits
 
 
